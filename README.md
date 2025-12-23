@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**peterkure-wq/peterkure-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Peter**, a **Senior Product Manager** working in the **AI / ML space**.
 
-Here are some ideas to get you started:
+I'm currently learning and experimenting with:
+- 🌱 **Python** (for data science and automation)
+- 🌱 **Git & GitHub / GitLab**
+- 🌱 **Machine Learning models**
+- 🌱 **AI agents and workflows**
+- 🌱 **CI/CD fundamentals**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub profile is a **learning space** where I:
+- Share small experiments and prototypes
+- Practice version control and CI/CD
+- Explore how models and agents move from idea → code → automation
+
+Right now, I'm focused on **building fundamentals** and learning in public.
+
+📫 More coming soon.
